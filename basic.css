@@ -1,0 +1,9 @@
+/* basic.css */
+
+.selected {
+	border:4px solid #35375c;
+}
+
+.unselected {
+    border:4px solid #ffffff;
+}
