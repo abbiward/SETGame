@@ -6,8 +6,9 @@ This is a JavaScript implementation of SET for solitary play.
 
 <h1>How you can play</h1>
 
-Download the directory.
-Open index.html.
+Go to : <a>http://abbiward.github.io/SETGame/</a>
+
+Alternatively, download the directory and open index.html.
 
 Instructions:
 Click on the cards you think will make a SET. They should be highlighted with a
